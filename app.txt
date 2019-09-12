@@ -1,1 +1,3 @@
 Let's assume that this is a fitness tracking app, now capable of counting steps, which is the initial feature
+
+New commit!! Added Dark theme now, thank me later
