@@ -2,4 +2,4 @@ Let's assume that this is a fitness tracking app, now capable of counting steps,
 
 New commit!! Added Dark theme now, thank me later
 
-Add workout timeline feature
+Now added Rajini songs as a motivational bgm. Not sure if the others are okay with it, so let me add a new branch and not disturb the master
